@@ -1,0 +1,47 @@
+[
+  {
+    "id": "jason",
+    "name": "Jason Blood",
+    "age": 21,
+    "image": "/images/characters/jason.jpg",
+    "description": "Jason Blood, the central protagonist of ECHOES: The Undying Follower, is a seasoned police detective hailing from the industrial city of Greyhaven, a place known for its cold streets, constant fog, and a long history of unresolved crimes. Pragmatic yet deeply introspective, Jason is driven by an unyielding sense of duty and a quiet obsession with uncovering truths others would rather leave buried. Beneath his calm demeanor lies a man haunted by guilt and loss, the remnants of past cases that ended in tragedy. When the game begins, Jason is assigned to investigate the strange disappearance of Mira Aurelius, a woman with no criminal record or history of instability. Her last known location points to the secluded town of Eden’s Gloria, a place that has inexplicably vanished from modern maps and official records. Despite warnings from his superiors, Jason travels there alone, seeking answers. What starts as a routine missing-person case quickly unravels into a descent into madness, faith, and something far older than human understanding.",
+    "role": "Protagonist",
+    "status": "Human"
+  },
+  {
+    "id": "mira",
+    "name": "Mira Aurelius",
+    "age": 20,
+    "image": "/images/characters/mira.jpg",
+    "description": "Mira Aurelius plays a pivotal role in ECHOES: The Undying Follower, serving as both the emotional anchor of the story and the catalyst that draws Jason Blood into the nightmare of Eden’s Gloria. At first, she is introduced as a missing woman in her early twenties from Greyhaven, whose sudden disappearance prompts Jason’s investigation. According to her final journal entries, Mira inexplicably traveled alone to the long-abandoned town of Eden’s Gloria and was last seen heading toward the derelict psychiatric hospital known as St. Mercy Asylum. No one understood her motives, her departure seemed almost trance-like, as if she were being called by something unseen. When Jason finally arrives at St. Mercy Asylum, he discovers the building shrouded in a suffocating aura of decay and dread. Among the scattered relics of its past, Mira appears, standing motionless in a dark room, her eyes void of recognition. The moment she becomes aware of Jason’s presence, her body convulses violently, and she succumbs to possession. It is here that Mira ceases to be merely a missing person and becomes a vessel for something far more sinister: The Prophet, a demonic entity believed to have emerged from the depths of Hell itself.",
+    "role": "Supporting",
+    "status": "Human"
+  },
+  {
+    "id": "valac",
+    "name": "The Valac",
+    "age": "??",
+    "image": "/images/characters/valac.jpg",
+    "description": "Valac serves as the main boss of Chapter I in ECHOES: The Undying Follower. Known as the Prince of Hell, Valac is one of the higher-ranked entities among The Followers, standing far above the lesser spirits that roam the ruins of Eden’s Gloria. He acts as both an enforcer and a guardian of The Prophet’s will, embodying the fury and corruption that define the town’s cursed existence. Within the game, Valac is introduced as a manifestation of pure dominance, his presence distorts the air, warping light and space wherever he moves. His design reflects his infernal origins: a towering figure with hollow, shifting faces layered over his own, representing the souls he has consumed. Unlike other Followers, Valac retains fragments of intelligence, speaking in fragmented sermons that echo The Prophet’s twisted doctrine, mocking Jason Blood’s faith and sanity. During gameplay, Valac is the primary pursuer throughout St. Mercy Asylum, serving as both a physical and psychological threat. He cannot be defeated or permanently stopped, as his existence is tied directly to The Prophet’s power. Every encounter with Valac is an endurance trial—players must rely on stealth, quick thinking, and environmental manipulation to survive.",
+    "role": "Antagonist",
+    "status": "Demon"
+  },
+  {
+    "id": "prophet",
+    "name": "The Prophet",
+    "age": "??",
+    "image": "/images/characters/prophet.jpg",
+    "description": "Known as the King of all existing demons, The Prophet is believed to have emerged from the deepest circles of Hell, a being of pure corruption, deceit, and spiritual decay. The Prophet does not have a physical body, yet.  The Prophet is the true orchestrator behind the disappearance of the citizens of Eden’s Gloria, turning the once-living town into a silent wasteland erased from history. Its influence seeps into every corner of the game world, twisting both reality and faith into instruments of madness. Unlike ordinary entities, The Prophet cannot be defeated or permanently stopped. Its existence transcends mortality and logic. It is a manifestation of belief itself, feeding on the despair and guilt of those who seek redemption. Throughout the trilogy, players can only stun or delay him temporarily using sacred relics, rituals, or talismans, but never truly destroy him. His voice echoes constantly, manipulating the protagonist’s faith and distorting their perception of truth, making every encounter a test of both survival and sanity.",
+    "role": "Antagonist",
+    "status": "Demon"
+  },
+    {
+    "id": "follower",
+    "name": "The Folllower",
+    "age": "??",
+    "image": "/images/characters/follower.jpg",
+    "description": "The Followers are the corrupted inhabitants of Eden’s Gloria and serve as one of the primary enemy types in ECHOES: The Undying Follower. As their name suggests, they are the devoted servants of The Prophet, bound by his will and stripped of their humanity. Once ordinary townspeople, The Followers were possessed and transformed into monstrous entities through The Prophet’s influence, becoming the very reason behind the town’s disappearance and its descent into madness. Unlike The Prophet, who cannot be killed or permanently stopped, The Followers can be defeated or temporarily subdued by the player. They appear in various grotesque forms, each reflecting fragments of their former lives, doctors, priests, children, and townsfolk, twisted into horrifying parodies of faith and devotion. Their behavior is erratic; some wander aimlessly, muttering distorted prayers, while others hunt aggressively in packs, guided by The Prophet’s whispers.",
+    "role": "Antagonist",
+    "status": "Demon"
+  }
+]

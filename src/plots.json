@@ -1,0 +1,29 @@
+[
+  {
+    "id": "chapter-1",
+    "type": "chapter",
+    "label": "Chapter I",
+    "title": "All the Last and the First Breath",
+    "shortDescription": "Jason Blood arrives at Eden’s Gloria and uncovers the first layer of the town’s disappearance.",
+    "available": true,
+    "content": "Jason Blood, a police detective from Greyhaven, assigned to investigate the mysterious disappearance of Eden’s Gloria, a town long erased from maps after its population vanished without a trace. Every person who tried to uncover the town’s secret also disappeared, leaving behind only rumors of a curse. Jason’s latest case involves Mira Aurelius, a young woman in her twenties who abruptly fled her home and was last reported heading to St. Mercy Asylum, an abandoned psychiatric hospital in Eden’s Gloria. Her note gave no clear reason for her departure, only a chilling mention of “voices calling her home.” Determined to find her, Jason travels to the forsaken town. Upon entering St. Mercy Asylum, Jason finds the place in ruins, yet filled with a palpable, malevolent presence. The halls echo with faint whispers and shifting shadows. Deep inside, he discovers Mira, standing motionless in a dark room. The moment she notices him, her body twists unnaturally as she becomes possessed by The Prophet, a demonic entity believed to have caused the town’s downfall. Jason narrowly escapes as Mira, now The Prophet’s vessel, and a swarm of Followers, the corrupted souls of the town’s former residents, chase him through the asylum. Among them is Valac, the Prince of Hell and The Prophet’s enforcer, an unstoppable force that hunts Jason without mercy. Taking refuge in an old patient room, Jason uncovers ancient notes revealing that The Prophet feeds on faith and despair, turning those who enter Eden’s Gloria into its eternal servants. Realizing he’s facing something far beyond human comprehension, Jason must survive the asylum, evade Mira and the Followers, and uncover the truth about Eden’s Gloria, The Prophet, and the curse that binds them all."
+  },
+  {
+    "id": "chapter-2",
+    "type": "chapter",
+    "label": "Chapter II",
+    "title": "The Lesson You don’t want to Remember it.",
+    "shortDescription": "This chapter is still in development.",
+    "available": false,
+    "content": ""
+  },
+  {
+    "id": "chapter-3",
+    "type": "chapter",
+    "label": "Chapter III",
+    "title": "The Undying Follower.",
+    "shortDescription": "This chapter is still in development.",
+    "available": false,
+    "content": ""
+  }
+]
