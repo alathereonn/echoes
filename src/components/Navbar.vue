@@ -102,6 +102,15 @@ const closeNav = () => {
               Contact
             </RouterLink>
           </li>
+          <li>
+            <RouterLink
+              to="/cv"
+              class="text-sm font-medium text-gray-300 hover:text-pink-500"
+              @click="closeNav"
+            >
+              CurriculumVitae
+            </RouterLink>
+          </li>
         </ul>
       </div>
     </div>

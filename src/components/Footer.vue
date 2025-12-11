@@ -46,6 +46,14 @@
                       </li>
                   </ul>
               </div>
+            <div>
+                  <h2 class="mb-6 text-sm font-semibold text-white text-heading uppercase"></h2>
+                  <ul class="text-body text-white font-medium">
+                      <li class="mb-4">
+                          <RouterLink to="/cv" class="hover:text-pink-500">CurriculumVitae</RouterLink>
+                      </li>
+                  </ul>
+              </div>
           </div>
       </div>
       <hr class="my-6 border-default sm:mx-auto lg:my-8" />

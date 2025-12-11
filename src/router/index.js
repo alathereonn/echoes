@@ -6,7 +6,8 @@ import CharacterDetail from "@/components/CharactersDetail.vue";
 import PlotPage from '@/components/PlotPage.vue';
 import PlotDetail from '@/components/PlotDetail.vue';
 import GameplayPage from '@/components/GameplayPage.vue';
-import AboutPage from '@/components/AboutPage.vue'
+import AboutPage from '@/components/AboutPage.vue';
+import CurriculumVitaePage from '@/components/CurriculumVitaePage.vue';
 
 const routes = [
     {
@@ -50,6 +51,11 @@ const routes = [
         path: '/about',
         name: 'AboutPage',
         component: AboutPage,
+    },
+    {
+        path: '/cv',
+        name: 'CurriculumVitaePage',
+        component: CurriculumVitaePage,
     },
 ]
 
