@@ -8,8 +8,11 @@ import Footer from './Footer.vue'
 <template>
   <div class="min-h-screen flex flex-col bg-white">
     <Navbar />
-    <PlotHeader/>
-    <PlotList />
+    <PlotHeader />
+
+    <!-- BIKIN AREA KONTEN FLEX-1 -->
+    <PlotList class="flex-1" />
+
     <Footer />
   </div>
 </template>
